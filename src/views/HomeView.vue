@@ -104,7 +104,8 @@ export default defineComponent({
           require('@/assets/images/project1-2.png'),
           require('@/assets/images/project1-3.png')
         ],
-        url: 'https://github.com/YR1017fr/FireBlog/',
+        url: 'https://fireblogs-bb0a0.firebaseapp.com/',
+        gitUrl: 'https://github.com/YR1017fr/FireBlog/',
         finishDate: 'Aug 2022',
         description: `以Vue建構多個可重複使用的組件完成網站畫面，使用Firebase提供後端服務讓用戶可登入、新增/修改發文。
         (註: 因沒有fileServer，上傳圖片皆改為固定圖片)`
